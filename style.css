@@ -1,0 +1,24 @@
+.tarto{
+    background-color: black;
+    width: 400px;
+    height: 175px;
+    margin: auto;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+}
+p{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    color: white;
+}
+
+.kimenet{
+    display: none;
+}
